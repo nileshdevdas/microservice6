@@ -10,6 +10,6 @@ public class HelloWorld {
 	@RequestMapping(path = "hello", method = RequestMethod.GET)
 	public String getMessage() {
 
-		return "Hello World From MicroService";
+		return "Hello World From MicroService 12323";
 	}
 }
